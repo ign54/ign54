@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ign54)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ign54&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
