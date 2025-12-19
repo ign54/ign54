@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Languages I speak or tools I use:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Skript](https://img.icons8.com/?size=100&id=RbbYFLGNyoFg&format=png&color=000000) ![VSC](https://icons8.com/icon/R1M8NOd2nRhY/visual-studio-code)
 
 <hr>
 
