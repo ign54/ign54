@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Tools I use for coding, etc:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ign54)](https://github.com/ign54/github-profile-trophy)
+
 
 <hr>
 
