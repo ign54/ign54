@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <hr>
 
 
-### 💻 Languages I speak or tools I use:
-![Skript](https://img.icons8.com/?size=100&id=RbbYFLGNyoFg&format=png&color=000000) ![VSC](https://icons8.com/icon/R1M8NOd2nRhY/visual-studio-code)
+### 💻 Languages I code in or tools I use:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ##### But not that much, im still learning cpp
 
 <hr>
 
