@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### PvPx Founder -> [https://discord.gg/pvpx](https://discord.gg/h3hjSa6G36)
+
+
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ign54&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
